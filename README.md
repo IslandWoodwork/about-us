@@ -16,4 +16,4 @@ I graduated from Farmingdale State College with a degree in Computer Programming
 - 💞️ I’m looking to collaborate with others who I can learn
 
 # 📫 How to reach me
-### :octocat: [GitHub](https://github.com/AndrewGottilla) | 👤 [LinkedIn](https://www.linkedin.com/in/andrewgottilla/) | [📧 Email](mailto:andrew_gottilla@yahoo.com) | 📱 (516) 512-9143
+### [:octocat: GitHub](https://github.com/AndrewGottilla) | [👤 LinkedIn](https://www.linkedin.com/in/andrewgottilla/) | [📧 Email](mailto:andrew_gottilla@yahoo.com) | [📱 (516) 512-9143](tel:+5165129143)
